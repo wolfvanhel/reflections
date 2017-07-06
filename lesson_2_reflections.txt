@@ -9,3 +9,7 @@ It is diferent because the staging area stores the files that we want to commit,
 How can you use the staging area to make sure you have one commit per logical change?
 
 using the command git diff --staged to compere what i am commiting and be sure thats what i want
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+branches are useful when trying experimental features that i want to keep changes separately. Branches allow to keep record of the changes in one line and separetely work on another without interfiring one with the other
