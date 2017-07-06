@@ -13,3 +13,7 @@ using the command git diff --staged to compere what i am commiting and be sure t
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 branches are useful when trying experimental features that i want to keep changes separately. Branches allow to keep record of the changes in one line and separetely work on another without interfiring one with the other
+
+How do the diagrams help you visualize the branch structure?
+
+allowing to understand better how the commits are structured in a hierachy, and allowing us to have a better organization of the content we are creating
