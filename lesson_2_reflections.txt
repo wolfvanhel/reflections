@@ -5,3 +5,7 @@ When a repository is initialized a folder that would contain the commits and oth
 How is the staging area different from the working directory and the repository? What value do you think it offfers?
 
 It is diferent because the staging area stores the files that we want to commit, it's like a preparation before commiting allowing more control over the commits
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+using the command git diff --staged to compere what i am commiting and be sure thats what i want
