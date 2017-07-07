@@ -13,3 +13,7 @@ Forks copy a repository from github to another github account, it is used to mod
 Clone is used to get a copy of a repository from github to work in your own computer
 
 Branches are used to make experimental changes or make changes that you want to make separetely
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+to keep track of the changes that are being made by other people
