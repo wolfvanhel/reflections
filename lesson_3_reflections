@@ -17,3 +17,7 @@ Branches are used to make experimental changes or make changes that you want to 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 to keep track of the changes that are being made by other people
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+to colaborate without github the code will need to be reviewed often to see the changes everyone made and merge the code manually, with git and github is all advantages and improvements
