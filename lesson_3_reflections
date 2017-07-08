@@ -21,3 +21,7 @@ to keep track of the changes that are being made by other people
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 to colaborate without github the code will need to be reviewed often to see the changes everyone made and merge the code manually, with git and github is all advantages and improvements
+
+When would you want to make changes in a separete branch rather than directly in master? What benefits does each approach have?
+
+You should make changes in a separte branch to try things that can break the work you are doing, like testing experimental features, the master branch is the cleanest place in the repository, the working code and the way it will be presented is here
